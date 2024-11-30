@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/proyecto2/static/css/main.186aac07.css",
+    "main.js": "/proyecto2/static/js/main.e4719e32.js",
+    "static/js/453.b8e495f3.chunk.js": "/proyecto2/static/js/453.b8e495f3.chunk.js",
+    "static/media/34793.jpg": "/proyecto2/static/media/34793.17da7e43c87266826a76.jpg",
+    "static/media/8782.jpg": "/proyecto2/static/media/8782.a94cfc1b6a8447d7a370.jpg",
+    "static/media/Piggly_Wiggly_store,_1918.png": "/proyecto2/static/media/Piggly_Wiggly_store,_1918.3daa513a94bb2e0cd953.png",
+    "static/media/POOCompras.png": "/proyecto2/static/media/POOCompras.be131cb8dc2741efa1ca.png",
+    "static/media/SCG0.png": "/proyecto2/static/media/SCG0.11b68a0018549a2df168.png",
+    "static/media/POOInventario.png": "/proyecto2/static/media/POOInventario.815e3b8951ebfca7be3d.png",
+    "static/media/graficoSistem.png": "/proyecto2/static/media/graficoSistem.f541fc08d6940b505717.png",
+    "static/media/InvCUM.png": "/proyecto2/static/media/InvCUM.edd6479c484a225ba889.png",
+    "static/media/subsistemaInventario.png": "/proyecto2/static/media/subsistemaInventario.79c44fc04a5c61fc0179.png",
+    "static/media/subsistemaInventarioN2G1.png": "/proyecto2/static/media/subsistemaInventarioN2G1.999cb99812392171de5e.png",
+    "static/media/diagramaP.png": "/proyecto2/static/media/diagramaP.ea10117f9552cd8b295a.png",
+    "static/media/subsistemaRRHHG2.png": "/proyecto2/static/media/subsistemaRRHHG2.d4aee0eb1a6d38e714e4.png",
+    "static/media/SCG1.png": "/proyecto2/static/media/SCG1.983f43026eb722aee851.png",
+    "static/media/SCG2.png": "/proyecto2/static/media/SCG2.3dd14dd487b0393796bd.png",
+    "static/media/subsistemaRRHHG0.png": "/proyecto2/static/media/subsistemaRRHHG0.636dcc185df7755c0668.png",
+    "static/media/SC.png": "/proyecto2/static/media/SC.26498a2d96db3263cf40.png",
+    "static/media/subsistemaRRHHG3.png": "/proyecto2/static/media/subsistemaRRHHG3.4457d47c64d4f946650a.png",
+    "static/media/subsistemaRRHH.png": "/proyecto2/static/media/subsistemaRRHH.d19d5e054e8e3e440903.png",
+    "static/media/SubSistemaInv.png": "/proyecto2/static/media/SubSistemaInv.30f5274bce829331a828.png",
+    "static/media/subsistemaRRHHG4.png": "/proyecto2/static/media/subsistemaRRHHG4.952c29dcb20db7ddf10c.png",
+    "static/media/logoHechopng.png": "/proyecto2/static/media/logoHechopng.4f51889c2ad0de5bb5b3.png",
+    "static/media/tabla.png": "/proyecto2/static/media/tabla.0b28539b6e87c97da811.png",
+    "static/media/CUcompras.jpg": "/proyecto2/static/media/CUcompras.7fa9eccad837fba86795.jpg",
+    "static/media/supermercado.jpg": "/proyecto2/static/media/supermercado.6c47c2dd2971deb28fa7.jpg",
+    "index.html": "/proyecto2/index.html",
+    "main.186aac07.css.map": "/proyecto2/static/css/main.186aac07.css.map",
+    "main.e4719e32.js.map": "/proyecto2/static/js/main.e4719e32.js.map",
+    "453.b8e495f3.chunk.js.map": "/proyecto2/static/js/453.b8e495f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.186aac07.css",
+    "static/js/main.e4719e32.js"
+  ]
+}
