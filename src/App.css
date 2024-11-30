@@ -1,38 +1,105 @@
-.App {
-  text-align: center;
+.inria-serif-light {
+  font-family: "Inria Serif", serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.inria-serif-regular {
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.inria-serif-bold {
+  font-family: "Inria Serif", serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.inria-serif-light-italic {
+  font-family: "Inria Serif", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.inria-serif-regular-italic {
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.inria-serif-bold-italic {
+  font-family: "Inria Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+/*todo de arriba son la configuracion de las letras*/
+
+
+.texto-sombreado{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  text-shadow: 0 0 5px;
+  
+}
+.intro-color-cajaM{
+  background-color: rgb(29, 29, 29);
+}
+.intro-color-custom1{
+  background-color: #322C2B;
+}
+.intro-color-custom2{
+  background-color: #222831;
+}
+.introTransitionTitulo{
+  
+  z-index: 1;
+}
+
+.cajaref1:hover .colorTexto {
   color: white;
+  text-shadow: 0 0 10px #fff,
+  0 0 15px #fff;
+  
+}
+.introContenedorPrincipal{
+  background-image: url(./assets/8782.jpg);
+  background-size: cover;
+  
 }
 
-.App-link {
-  color: #61dafb;
+/*otra pagina*/
+.fondo_personalizado{
+  background-image: url('./assets/34793.jpg');
+  background-size: cover;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.cajaRecalculadora{
+  clip-path: polygon(34% 0, 100% 0, 100% 100%, 0 100%);
+}
+.fondoMenu{
+  background-image: url('./assets/8782.jpg');
+  background-size: cover;
+}
+
+
+
+.letraCustomGradient{
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  color: transparent;
+  background-clip: text;
+
+ 
+
+
+}
+.letraCustomGradient:hover{
+  background: rgb(170,168,5);
+  background: linear-gradient(90deg, rgba(170,168,5,1) 0%, rgba(253,198,29,1) 50%, rgba(252,118,69,1) 100%);
+  color: transparent;
+  background-clip: text;
+  
 }
