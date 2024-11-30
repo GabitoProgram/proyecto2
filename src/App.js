@@ -77,7 +77,7 @@ function App() {
         
         si no funciona elimina el proyecto-ayp en menu para abajo solo el primer ruta no lo demas si
         */}
-        
+      <h1>Hola a todos</h1>
       <Router>
         
         <Routes>     
