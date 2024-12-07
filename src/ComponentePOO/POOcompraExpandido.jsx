@@ -39,11 +39,32 @@ const POOcomprasExpandido = () => {
                         </span>
                         <span className='flex gap-2'>
                           <h1 className="text-[#9492D2] text-[] text-2xl inria-serif-bold">Precondiciones: </h1>
-                          <h1 className='text-[#B1BACC] text-[] text-2xl inria-serif-regular'>los datos de los clientes y del inventario existen en el almacén de datos</h1>
+                          <ul className='text-[#B1BACC] text-[] text-2xl inria-serif-regular pl-5'>
+                            <li>
+                              <span className="text-[#6DAEC2] text-[] text-2xl inria-serif-bold">Registro del cliente: </span>
+                              <span className="text-[#B1BACC] text-[] text-2xl inria-serif-regular">El cliente debe estar registrado en el sistema o proporcionar información mínima (nombre, dirección, etc.) en caso de que no brinde estos datos sera tomado como invitado.</span>
+                            </li>
+                            <li>
+                              <span className="text-[#6DAEC2] text-[] text-2xl inria-serif-bold">Disponibilidad de Inventario: </span>
+                              <span className="text-[#B1BACC] text-[] text-2xl inria-serif-regular">Los productos seleccionados deben estar en stock.</span>
+                            </li>
+                            
+                          </ul>
+                    
                         </span>
                         <span className='flex gap-2'>
-                          <h1 className="text-[#9492D2] text-[] text-2xl inria-serif-bold">Postcpndiciones: </h1>
-                          <h1 className='text-[#B1BACC] text-[] text-2xl inria-serif-regular'>la venta de cada producto queda registrada con su factura </h1>
+                          <h1 className="text-[#9492D2] text-[] text-2xl inria-serif-bold">Postcondiciones: </h1>
+                          <ul className='text-[#B1BACC] text-[] text-2xl inria-serif-regular pl-5'>
+                            <li>
+                              <span className="text-[#6DAEC2] text-[] text-2xl inria-serif-bold">Actualización del Inventario: </span>
+                              <span className="text-[#B1BACC] text-[] text-2xl inria-serif-regular">El inventario del producto se reduce según las unidades vendidas.</span>
+                            </li>
+                            <li>
+                              <span className="text-[#6DAEC2] text-[] text-2xl inria-serif-bold">Notificación al Cliente:</span>
+                              <span className="text-[#B1BACC] text-[] text-2xl inria-serif-regular">El cliente recibe un comprobante o notificación con el resumen del pedido y la fecha estimada de entrega.</span>
+                            </li>
+                            
+                          </ul>
                         </span>
                        
                                        

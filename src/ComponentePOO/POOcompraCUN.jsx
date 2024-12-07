@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from '../assets/CUSisteme de venta de productos.png'
+import Img from '../assets/UC.png'
 import Barra_navegacionPOO from '../component/Barra_navegacionPOO'
 const POOcomprasCUN = () => {
   return (
