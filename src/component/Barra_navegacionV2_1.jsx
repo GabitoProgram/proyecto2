@@ -8,7 +8,7 @@ import Barra_NavOpcion from './Barra_NavOpcion_1'
 function Barra_navegacionV2({ruta}) {
   const enrutador = useNavigate();
   const activarP =()=>{
-   enrutador('/proyecto-ayd');
+   enrutador('/');
   }
   const activarP1 =()=>{
     enrutador('/Inicio');

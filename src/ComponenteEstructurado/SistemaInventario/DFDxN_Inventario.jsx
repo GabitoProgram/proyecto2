@@ -1,8 +1,8 @@
 import React from 'react'
 import Barra_navegacionV2 from '../../component/Barra_navegacionV2'
-import ImgInv from '../../assets/SubSistemaInv.png'
-import ImgInv1 from '../../assets/subsistemaInventario.png'
-import ImgInv2 from '../../assets/subsistemaInventarioN2G1.png'
+import ImgInv from '../../assets/Diagrama de contexto.png'
+import ImgInv1 from '../../assets/Nivel1.png'
+import ImgInv2 from '../../assets/Nivel2.png'
 const DFDxN_Inventario = () => {
   return (
     <div>

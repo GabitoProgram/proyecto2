@@ -8,7 +8,7 @@ import Barra_NavOpcionPOO from './Barra_NavOpcionPOO';
 function Barra_navegacionPOO({ruta}) {
   const enrutador = useNavigate();
   const activarP =()=>{
-   enrutador('/proyecto-ayd');
+   enrutador('/');
   }
   const activarP1 =()=>{
     enrutador('/AYDOO');
@@ -32,7 +32,7 @@ function Barra_navegacionPOO({ruta}) {
         <div className='w-full  flex flex-row place-content-end pr-[16%]'>
           <h1 className=" text-[24px] text-[#A0A0A0] px-10 group inria-serif-bold cursor-pointer">
             Contenido
-            <Barra_NavOpcionPOO nombre={'Sistemas'} ruta1={'/InvPOO'} ruta2={'/InvCUN'} ruta3={'/InvEx'} ruta4={'/ComprasPOO'} ruta5={'/ComprasCUN'} ruta6={'/ComprasEx'}/>
+            <Barra_NavOpcionPOO nombre={'Sistema'} ruta1={'/InvPOO'} ruta2={'/InvCUN'} ruta3={'/InvEx'} ruta4={'/ComprasPOO'} ruta5={'/ComprasCUN'} ruta6={'/ComprasEx'}/>
           </h1>
         </div>
         

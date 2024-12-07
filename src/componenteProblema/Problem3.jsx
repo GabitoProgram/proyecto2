@@ -14,7 +14,11 @@ const Problem3 = () => {
               <div className=" w-[55%] flex">
                 <span className="text-[#42A8A2] text-[40px] inria-serif-bold">1.</span>
                 <h1 className='text-[#B1BACC] text-[20px] mb-14 p-3 inria-serif-regular'>
-                  ¿Cómo podemos evitar quedarnos sin suministro habiendo mucha demanda?
+                  
+
+                  ¿Cómo podemos garantizar que los pagos sean forma rápida y eficiente para evitar largas filas y tiempos de espera?
+
+
                 </h1>
                </div>
             </div>
@@ -23,7 +27,8 @@ const Problem3 = () => {
               <div className="w-[55%] flex">
                 <span className="text-[#42A8A2] text-[40px] inria-serif-bold">2.</span>
                 <h1 className='text-[#B1BACC] text-[20px] mb-14 p-3 inria-serif-regular'>
-                    ¿Existen formas de administrar y evitar perdida de productos por caducidad o sobreprecio?
+                    ¿Existen formas de minizar los errores en el registro de ventas?
+     
                 </h1>
               </div>
             </div>
@@ -32,7 +37,8 @@ const Problem3 = () => {
               <div className="w-[55%] flex">
                 <span className="text-[#42A8A2] text-[40px] inria-serif-bold">3.</span>
                 <h1 className='text-[#B1BACC] text-[20px] mb-14 p-3 inria-serif-regular'>
-                  ¿Cómo podemos evitar quedarnos sin fondos en la parte de presupuesto?
+                  ¿Cómo podemos asegurar que los productos agotados se repongan oportunamente?
+
                 </h1>
               </div>
             </div>
@@ -43,7 +49,7 @@ const Problem3 = () => {
               <div className="w-[55%] flex">
                 <span className="text-[#42A8A2] text-[40px] inria-serif-bold">4.</span>
                 <h1 className='text-[#B1BACC] text-[20px] mb-14 p-3 inria-serif-regular'>
-                  ¿Cuáles son las formas de administrar compras y pérdidas para la sostenibilidad del negocio?
+                  ¿Como podemos saber la cantidad de stock que nos queda en el inventario?
                 </h1>
               </div>
             </div>

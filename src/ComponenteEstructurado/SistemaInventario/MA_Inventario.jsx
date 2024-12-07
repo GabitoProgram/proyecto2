@@ -11,11 +11,7 @@ const MA_Inventario = () => {
                     <h1 className='text-white text-[24px] p-2'>1. Declaración de propósitos</h1>
                     <hr className=' border-gray-50'/>
                     <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 m-5'>
-                                    En el sistema de inventario del supermercado debe tener en cuenta, a los proveedores, un administrador y el almacén, 
-                                    el almacén solo entran productos que son dados de alta para su guardado y posterior mente su venta, debemos tener en 
-                                    cuenta que los productos pueden llegar íntegros lo que significa que estén en buenas condiciones, los productos que 
-                                    estén dañados o falten deben ser reclamados a tiempo  y no llevados al almacén. El proveedor debe ser avisado por el 
-                                    administrador asignado, para el reemplazo del producto y posterior mente su alta en el almacén.     
+                    El sistema de ventas de productos del supermercado debe considerar la interacción del cajero, la persona encargada de atención al cliente y los propios clientes. El sistema permitirá registrar todos los productos disponibles en el almacén, así como la información de los clientes y sus facturas. Además, incluirá un mecanismo para generar informes sobre los productos que estén próximos a agotarse, y un reporte de ventas para identificar cuál ha sido el producto más vendido. El administrador será el responsable de dar de alta los productos, es decir, registrarlos en el sistema.     
                     </h1>  
 
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../assets/tabla.png'
+import img1 from '../assets/tablaHD.png'
 import Barra_navegacionV2 from '../component/Barra_navegacionV2_2';
 
 const Problem6 = () => {

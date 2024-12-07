@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from '../assets/CUcompras.jpg'
+import Img from '../assets/CUSisteme de venta de productos.png'
 import Barra_navegacionPOO from '../component/Barra_navegacionPOO'
 const POOcomprasCUN = () => {
   return (
@@ -9,7 +9,7 @@ const POOcomprasCUN = () => {
             <div className='w-full bg-[#0A192E] flex pb-40 place-content-center'>
               
                 <div className='  componenteContenido_controller_Intro_Ante_Estructurado pt-40'>
-                    <h1 className='text-white text-[24px] p-2'>Modelo casos de uso de compras</h1>
+                    <h1 className='text-white text-[24px] p-2'>Modelo casos de uso de venta de productos</h1>
                     <hr className=' border-gray-50'/>
                     <div className='p-5'>
                       <img className='bg-[#172945]' src={Img}/>

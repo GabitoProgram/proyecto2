@@ -1,5 +1,5 @@
 import React from 'react'
-import ImgInv from '../../assets/SubSistemaInv.png'
+import ImgInv from '../../assets/Diagrama de contexto.png'
 import Barra_navegacionV2 from '../../component/Barra_navegacionV2'
 const MA_Inventario2 = () => {
   return (

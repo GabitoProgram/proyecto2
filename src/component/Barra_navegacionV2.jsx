@@ -8,7 +8,7 @@ import Barra_NavOpcion from '../component/Barra_NavOpcion'
 function Barra_navegacionV2({ruta}) {
   const enrutador = useNavigate();
   const activarP =()=>{
-   enrutador('/proyecto-ayd');
+   enrutador('/');
   }
   const activarP1 =()=>{
     enrutador('/ProblemaEstructurado');
@@ -35,14 +35,10 @@ function Barra_navegacionV2({ruta}) {
         </h1>
         <div className='w-full  flex flex-row place-content-end pr-[10%]'>
           <h1 className=' text-[24px] text-[#A0A0A0] px-10 group inria-serif-bold cursor-pointer'>
-            Inventario
-            <Barra_NavOpcion nombre={'Sistema de Inventario'} rutaMA={'/MA_Inventario'} rutaMA1={'/MA_Inventario2'} rutaMA2={'/MA_Inventario3'} rutaDFDxN={'/DFDxN_Inventario'} rutaDD={'/DD_Inventario'}/>
+            Venta de Productos
+            <Barra_NavOpcion nombre={'Sistema de venta de productos'} rutaMA={'/MA_Inventario'} rutaMA1={'/MA_Inventario2'} rutaMA2={'/MA_Inventario3'} rutaDFDxN={'/DFDxN_Inventario'} rutaDD={'/DD_Inventario'}/>
           </h1>
-          
-          <h1 className=" text-[24px] text-[#A0A0A0] px-10 group inria-serif-bold cursor-pointer">
-            Compras
-            <Barra_NavOpcion nombre={'Sistema de Compras'} rutaMA={'/MA_compras'} rutaMA1={'/MA_compras2'} rutaMA2={'/MA_compras3'} rutaDFDxN={'/DFDxN_compras'} rutaDD={'/DD_compras'}/>
-          </h1>
+
         </div>
         
       </div>

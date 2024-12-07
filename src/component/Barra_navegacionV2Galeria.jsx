@@ -8,7 +8,7 @@ import Barra_NavOpcion from '../component/Barra_NavOpcion'
 function Barra_navegacionV2Galeria({ruta}) {
   const enrutador = useNavigate();
   const activarP =()=>{
-   enrutador('/proyecto-ayd');
+   enrutador('/');
   }
   const activarP1 =()=>{
     enrutador('/Galeria');

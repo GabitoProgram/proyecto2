@@ -15,11 +15,10 @@ const MA_Inventario3 = () => {
                     
                     <ul className='bg-[#172945] p-5 m-5'>
                       <li className="text-[#B1BACC] text-[20px] ">- Realizar el reclamo de un producto dañado.</li>
-                      <li className="text-[#B1BACC] text-[20px] ">- Generar informe de productos subidos al almacén.</li>
-                      <li className="text-[#B1BACC] text-[20px] ">- Inicia la verificación del estado de producto.</li>
-                      <li className="text-[#B1BACC] text-[20px] ">- Realizar la alta del producto al almacén.</li>
-                      <li className="text-[#B1BACC] text-[20px] ">- Revisión de posibles productos faltante según factura.</li>
-                      <li className="text-[#B1BACC] text-[20px] ">- Revisión de precios de producto por mayor.</li>
+                      <li className="text-[#B1BACC] text-[20px] ">- Generar informe de productos agotados.</li>
+                      <li className="text-[#B1BACC] text-[20px] ">- Generar un reporte de ventas.</li>
+                      <li className="text-[#B1BACC] text-[20px] ">- Generar un reporte de producto dados de alta.</li>
+                      <li className="text-[#B1BACC] text-[20px] ">- Guardar de manera eficiente los datos del cliente</li>
                     </ul>
 
                 </div>
