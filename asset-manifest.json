@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/proyecto2/static/css/main.186aac07.css",
-    "main.js": "/proyecto2/static/js/main.6516d9c1.js",
+    "main.css": "/proyecto2/static/css/main.db797c21.css",
+    "main.js": "/proyecto2/static/js/main.377f1124.js",
     "static/js/453.b8e495f3.chunk.js": "/proyecto2/static/js/453.b8e495f3.chunk.js",
     "static/media/34793.jpg": "/proyecto2/static/media/34793.17da7e43c87266826a76.jpg",
     "static/media/8782.jpg": "/proyecto2/static/media/8782.a94cfc1b6a8447d7a370.jpg",
-    "static/media/Piggly_Wiggly_store,_1918.png": "/proyecto2/static/media/Piggly_Wiggly_store,_1918.3daa513a94bb2e0cd953.png",
+    "static/media/La semillita.png": "/proyecto2/static/media/La semillita.53fbdb0b3c18c0c62ec7.png",
+    "static/media/La tienda.png": "/proyecto2/static/media/La tienda.5d33a36d191c6dcca131.png",
     "static/media/POOCompras.png": "/proyecto2/static/media/POOCompras.be131cb8dc2741efa1ca.png",
     "static/media/SCG0.png": "/proyecto2/static/media/SCG0.11b68a0018549a2df168.png",
     "static/media/POOInventario.png": "/proyecto2/static/media/POOInventario.815e3b8951ebfca7be3d.png",
     "static/media/graficoSistem.png": "/proyecto2/static/media/graficoSistem.f541fc08d6940b505717.png",
     "static/media/InvCUM.png": "/proyecto2/static/media/InvCUM.edd6479c484a225ba889.png",
-    "static/media/Arbol_de_problema-HD.png": "/proyecto2/static/media/Arbol_de_problema-HD.08292a2f2d322a2a7845.png",
     "static/media/subsistemaInventario.png": "/proyecto2/static/media/subsistemaInventario.79c44fc04a5c61fc0179.png",
     "static/media/subsistemaInventarioN2G1.png": "/proyecto2/static/media/subsistemaInventarioN2G1.999cb99812392171de5e.png",
     "static/media/subsistemaRRHHG2.png": "/proyecto2/static/media/subsistemaRRHHG2.d4aee0eb1a6d38e714e4.png",
@@ -24,20 +24,20 @@
     "static/media/subsistemaRRHH.png": "/proyecto2/static/media/subsistemaRRHH.d19d5e054e8e3e440903.png",
     "static/media/SubSistemaInv.png": "/proyecto2/static/media/SubSistemaInv.30f5274bce829331a828.png",
     "static/media/subsistemaRRHHG4.png": "/proyecto2/static/media/subsistemaRRHHG4.952c29dcb20db7ddf10c.png",
+    "static/media/Problemas1-Photoroom.png": "/proyecto2/static/media/Problemas1-Photoroom.6c3a8fe87c35c5ae20e4.png",
     "static/media/logoHechopng.png": "/proyecto2/static/media/logoHechopng.4f51889c2ad0de5bb5b3.png",
     "static/media/tablaHD.png": "/proyecto2/static/media/tablaHD.573904be0dcc029a089e.png",
     "static/media/CUcompras.jpg": "/proyecto2/static/media/CUcompras.7fa9eccad837fba86795.jpg",
     "static/media/Nivel1.png": "/proyecto2/static/media/Nivel1.745b2802fe8053b89aa3.png",
     "static/media/Nivel2.png": "/proyecto2/static/media/Nivel2.0ef91d1bd2bac9c480fa.png",
     "static/media/Diagrama de contexto.png": "/proyecto2/static/media/Diagrama de contexto.a92710250b6182415a7e.png",
-    "static/media/supermercado.jpg": "/proyecto2/static/media/supermercado.6c47c2dd2971deb28fa7.jpg",
     "index.html": "/proyecto2/index.html",
-    "main.186aac07.css.map": "/proyecto2/static/css/main.186aac07.css.map",
-    "main.6516d9c1.js.map": "/proyecto2/static/js/main.6516d9c1.js.map",
+    "main.db797c21.css.map": "/proyecto2/static/css/main.db797c21.css.map",
+    "main.377f1124.js.map": "/proyecto2/static/js/main.377f1124.js.map",
     "453.b8e495f3.chunk.js.map": "/proyecto2/static/js/453.b8e495f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.186aac07.css",
-    "static/js/main.6516d9c1.js"
+    "static/css/main.db797c21.css",
+    "static/js/main.377f1124.js"
   ]
 }
