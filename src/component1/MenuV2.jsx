@@ -33,7 +33,7 @@ const MenuV2 = () => {
                     </div>
 
                     <div className="pl-[1%] pb-[5%]">
-                        <h1 className="text-[#A08949] text-[40px] leading-none inria-serif-bold">FullStock</h1>
+                        <h1 className="text-[#A08949] text-[40px] leading-none inria-serif-bold">LaSemillita</h1>
                         <h1 className="text-[#9492D2] text-[24px] leading-tight inria-serif-bold">CALIDAD PARA TU HOGAR</h1>
                         <h1 className="text-[#C7C7C7] text-[24px] leading-none inria-serif-bold">Proyecto de Sistema de ventas de un <br/>supermercado </h1>
                     </div>

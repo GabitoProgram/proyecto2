@@ -13,7 +13,7 @@ const Introduccion = () => {
 
             <h1 className='text-white text-[32px] p-2 inria-serif-bold'>¿Cuál es nuestro proyecto?</h1>
             <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 inria-serif-regular'>
-            El proyecto consiste en crear un sistema de venta de productos de un  supermercado, hoy en día los supermercados necesitan agilidad al saber que les falta en su inventario y lo que se vende,  no perder datos de sus clientes.
+            El proyecto consiste en crear un sistema de venta de productos de un  supermercado, hoy en día los supermercados necesitan agilidad al saber que les falta en su almacen y lo que se vende,  no perder datos de sus clientes.
             </h1>
 
 
