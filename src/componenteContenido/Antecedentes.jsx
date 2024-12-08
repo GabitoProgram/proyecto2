@@ -1,6 +1,6 @@
 import React from 'react'
-import img1 from '../assets/Piggly_Wiggly_store,_1918.png';
-import img2 from '../assets/supermercado.jpg';
+import img1 from '../assets/La semillita.png';
+import img2 from '../assets/La tienda.png';
 import Barra_navegacionV2_1 from '../component/Barra_navegacionV2_1'
 const Antecedentes = () => {
   return (
@@ -15,22 +15,20 @@ const Antecedentes = () => {
 
         
             <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 inria-serif-regular'>
-                El supermercado a diferencia de otras tiendas, este permite a los usuarios
-                o individuos tener a su alcance todo una gama grande de productos, tanto como
-                productos orgánicos, electrónicos, alimentos envasados y aparatos de todo tipo,
-                tanto como muebles y ropa.
+            En la esquina de la calle Boquero, frente a la histórica Plaza José Martí de La Paz, se alza "La Semillita", una tienda que durante décadas ha sido un pilar de la comunidad. Fundada por doña Rosa hace más de 40 años, la tienda comenzó como un humilde puesto donde Rosa vendía semillas y especias, inspirada en los recuerdos de su infancia en el altiplano. "Cada semilla es una promesa de vida", solía decir a los vecinos, quienes pronto convirtieron su negocio en parte esencial de sus rutinas.
+
             </h1>
 
-
-
-            <h1 className='text-white text-[32px] pl-2 inria-serif-bold'>Causas </h1>
             <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 inria-serif-regular'>
-                            Los mercados antiguos eran pequeños y no necesitaban mucha gente para ser manejados,
-                            eran eficientes pero para su escalabilidad terminaban siendo un desastre aparte de lentos
-                            al atender muchos individuos, ahora teniendo 
-                            hoy en dia el concepto de un supermercado, podemos llegar a pensar que tiene todo y
-                            no hace falta ir de tienda a tienda y esperar a que un solo cajero te atienda.
+            Con el tiempo, "La Semillita" creció y comenzó a ofrecer más productos, desde alimentos básicos hasta pequeños artículos de hogar. Sin embargo, el crecimiento trajo consigo nuevos desafíos. Rosa llevaba el control del inventario y las ventas a mano, utilizando un cuaderno gastado que no siempre reflejaba las existencias reales.
+
             </h1>
+            <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 inria-serif-regular'>
+            Las facturas eran otro problema recurrente: a menudo, Rosa olvidaba registrar algunas transacciones, lo que ocasionaba confusiones al final del día. Además, el almacén de la tienda estaba siempre desordenado; no era raro que productos cercanos a caducar quedaran olvidados en el fondo de los estantes, lo que resultaba en pérdidas económicas.
+
+            </h1>
+
+
 
             <div className='flex relative w-[100%] my-20'>
               <span className="w-[45%]">
@@ -38,8 +36,11 @@ const Antecedentes = () => {
               </span>
               <div className="absolute  w-[100%]">
                 <div className='pl-[42%] '>
-                  <h1 className=' text-white text-[32px] text-end inria-serif-bold '>Historia del supermercado</h1>
-                  <h1 className='  text-[#B1BACC] text-[20px] bg-[#172945] p-5 inria-serif-regular '>El primer supermercado nacio en EEUU, en 1916 con el nombre de Piggly Wiggly en Memphis, Tennessee</h1>
+                  
+                <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 inria-serif-regular'>
+            Con la llegada de supermercados modernos a la zona, estos problemas comenzaron a pesar más. Los clientes valoraban la calidez y el trato cercano de Rosa, pero también querían la eficiencia y organización de los negocios más grandes. Fue entonces cuando su nieto Javier, recién graduado de ingeniería de sistemas, decidió intervenir.
+
+            </h1>
                 </div>
               </div>
             </div>
@@ -48,12 +49,10 @@ const Antecedentes = () => {
             <div className='flex relative w-[100%] my-20'>
               <span className="w-[50%]">
               
-                <h1 className='  text-[#B1BACC] text-[20px] bg-[#172945] p-5 inria-serif-regular'>
-                                    El supermercado a diferencia de otras tiendas, este permite a los usuarios
-                                    o individuos tener a su alcanse todo una gama grande de productos, tanto como
-                                    productos organicos, electronicos, alimentos envasados y aparatos de todo tipo,
-                                    tanto como muebles y ropa.
-                </h1>
+              <h1 className='text-[#B1BACC] text-[20px] p-5 bg-[#172945] mb-14 inria-serif-regular'>
+            "Abuela", le dijo una tarde mientras reorganizaba unas bolsas de arroz, "no podemos dejar que estos problemas te quiten el sueño. Quiero implementar un sistema que te facilite el trabajo. Un sistema que controle el inventario, registre automáticamente las ventas, y te avise cuando un producto esté a punto de agotarse o caducar".
+
+            </h1>
               </span>
               <div className="absolute  w-[100%]">
                 <div className='pl-[55%] '>

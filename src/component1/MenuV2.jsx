@@ -41,7 +41,7 @@ const MenuV2 = () => {
                     <div className="2xl:pl-[12%] 2xl:pb-[5%] 2xl:absolute 2xl:w-full 2xl:flex 2xl:flex-col 2xl:items-end 2xl:pr-10 sm:hidden">
                         <div>
                         <h1 className='text-[25px] text-[#C2C2C2]  inria-serif-bold leading-tight'>Integrantes:</h1>
-                        <h1 className='text-[20px] text-[#46BBA6]  inria-serif-light leading-none pl-5'>Carrisales Ramiro Bernas Alejandro<br/>
+                        <h1 className='text-[20px] text-[#46BBA6]  inria-serif-light leading-none pl-5'>Bernas Carrisales Alejandro Ramiro<br/>
                         Cruz Cruz Wara Alejandra<br/>   Callisaya Diaz Gabriel<br/>    Lopez Leon Ignacio Victor<br/>   Mollo Solares Tupac Uma<br/>   Poma Calahumani Jose Marcelo<br/> 
                         </h1>
                         </div>

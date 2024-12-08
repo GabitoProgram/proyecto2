@@ -11,7 +11,7 @@ const Footer = () => {
         </div>
         <div className="">
             <h1 className=" text-white text-[20px] inria-serif-bold">Integrantes:</h1>
-            <h1 className="text-[16px] text-[#B1BACC] leading-none p-2 inria-serif-regular">Carrisales Ramiro Bernas Alejandro</h1>
+            <h1 className="text-[16px] text-[#B1BACC] leading-none p-2 inria-serif-regular">Bernas Carrisales Alejandro Ramiro </h1>
             <h1 className="text-[16px] text-[#B1BACC] leading-none p-2 inria-serif-regular">Cruz Cruz Wara Alejandra</h1>
             <h1 className="text-[16px] text-[#B1BACC] leading-none p-2 inria-serif-regular">Callisaya Diaz Gabriel</h1>
             <h1 className="text-[16px] text-[#B1BACC] leading-none p-2 inria-serif-regular">Lopez Leon Ignacio Victor</h1>
