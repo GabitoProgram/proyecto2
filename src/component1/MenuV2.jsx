@@ -109,8 +109,8 @@ const MenuV2 = () => {
                 </defs>
                 </svg>
             </div>
-            <h1 className='px-7 text-[#E4C59E] text-[32px] inria-serif-bold leading-none'>Bibliografía</h1>
-            <h1 className='px-7 pb-7 text-[#59618A] text-[20px]'>Referencias y fuentes del tema</h1>
+            <h1 className='px-7 text-[#E4C59E] text-[32px] inria-serif-bold leading-none'>Video</h1>
+            <h1 className='px-7 pb-7 text-[#59618A] text-[20px]'>Video de explicacion del Proyecto</h1>
         </div>
 
 
